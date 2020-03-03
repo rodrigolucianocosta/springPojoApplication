@@ -1,10 +1,10 @@
-package com.springPojo.pojoApplication;
+package com.pojoApplication.applicationPojo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PojoApplicationTests {
+class ApplicationPojoApplicationTests {
 
 	@Test
 	void contextLoads() {
