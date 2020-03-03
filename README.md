@@ -1,0 +1,2 @@
+# springPojoApplication
+aplicação em POJO
